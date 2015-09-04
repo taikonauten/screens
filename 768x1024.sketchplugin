@@ -1,0 +1,3 @@
+@import 'core.js'
+
+create('768x1024', 1024);
