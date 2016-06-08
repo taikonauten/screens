@@ -1,3 +1,7 @@
+# Warning
+
+This plugin is not woking at the moment due to changes in the sketch plugin api.
+
 # Screens
  
 ![Preview](https://cldup.com/SlfiIFk3mn-3000x3000.jpeg)
